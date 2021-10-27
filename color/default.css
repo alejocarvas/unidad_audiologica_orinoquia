@@ -1,0 +1,124 @@
+/*
+#1 color = #6ac2da;
+#2 color = #2b94b5;
+*/
+
+a:hover,
+a:focus {
+    color: #6ac2da;
+}
+
+.circled {
+	background: #6ac2da;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #6ac2da;
+}
+
+.scrollup:hover {
+	background: #6ac2da;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #6ac2da;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color: #6ac2da;
+  border-color: #6ac2da;
+}
+
+
+/* top */
+.top-area {
+	background: #2b94b5;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #2b94b5;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    color: #2b94b5;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #6ac2da;
+}
+
+
+.bg-skin {
+	background: #6ac2da;
+}
+
+.bg-skin-2 {
+	background: #afcb09;
+}
+
+.highlight-color {
+	background-color: #6ac2da;
+}
+.color {
+	color: #6ac2da;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#2b94b5;
+}
+.pricing-content.featured h3 {
+	background:#6ac2da;
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #2b94b5;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #6ac2da;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #6ac2da;
+    border:1px solid #6ac2da;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #6ac2da;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #6ac2da;
+    border-color: #6ac2da;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #6ac2da;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #2b94b5;
+}
+
+.form-control:focus {
+  border-color: #2b94b5;
+}

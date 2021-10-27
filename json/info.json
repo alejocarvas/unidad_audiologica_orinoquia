@@ -1,0 +1,178 @@
+{
+    "mision": {
+      "titulo": "Nuestra Misión",
+      "subtitulo": "",
+      "icono": "fa-hand-holding-heart",
+      "imagen": "",
+      "descripcion": "Somos un grupo de Profesionales del área de fonoaudiología y audiología trabajando por el bienestar de la salud auditiva y el bienestar comunicativo del ser humano desde el área clínica y ocupacional, por medio de acciones de promoción y prevención, evaluación diagnóstico y re/habilitación auditiva, con el fin de brindar la oportunidad a los neonatos, niños, adolescente, adultos y adultos mayores, de reintegrase auditivamente a nivel individua (personal), familiar, laboral y social."
+    },
+    "vision": {
+      "titulo": "Nuestra Visión",
+      "subtitulo": "",
+      "icono": "fa-eye",
+      "imagen": "",
+      "descripcion": "Ser el grupo pionero de profesionales de fonoaudiología y audiología en la prevención, promoción, evaluación diagnóstico y re/habilitación auditiva en la región de la Orinoquia desde la área clínica y ocupacional."
+    },
+    "especialistas": {
+      "titulo": "Nuestros Especialistas",
+      "subtitulo": "",
+      "icono": "fa-user-md",
+      "imagen": "",
+      "descripcion": "Nuestro equipo médico, es un grupo de profesionales especialistas en fonoaudiología y audiología, que cuentan con más de 10 años de experiencia práctica en diferentes centros de salud y sector médico de nuestro país."
+    },
+    "instalaciones": {
+      "titulo": "Nuestras Instalaciones",
+      "subtitulo": "",
+      "icono": "fa-hospital-alt",
+      "imagen": "",
+      "descripcion": "Contamos con equipos especializados de última generación que nos permiten estar siempre a la vanguardia, mejorando así nuestros servicios y poniéndonos a la altura de centros especializados de nuestro país. Todo esto puesto a la disposición de los habitantes de la Orinoquía Colombiana."
+    },
+    "promocion": {
+      "titulo": "Promoción y Prevención",
+      "subtitulo": "",
+      "icono": "fa-briefcase-medical",
+      "imagen": "",
+      "descripcion": "Capacitaciones y sensibilización a la población en general; madres gestantes, grupos familiares, docentes y profesionales de la salud acerca de desarrollo auditivo, lenguaje, adquisición del habla y procesos de aprendizaje en los niños. Desde el enfoque ocupacional acompañamiento en los procesos de manejo de colaboradores con déficit auditivo por exposición a ruido."
+    },
+    "videotoscopia": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Videotoscopia",
+      "icono": "",
+      "imagen": "img/servicios/Videotoscopia.jpg",
+      "descripcion": "Exploración del conducto auditivo y membrana timpánica con opción a tener video o imagen a color, con el objetivo de conocer la condición física del oído externo, es un método indoloro."
+    },
+    "audiometria": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Audiometría tonal",
+      "icono": "",
+      "imagen": "img/servicios/Audiometria_tonal.jpg",
+      "descripcion": "Prueba subjetiva que sirve para evaluar el funcionamiento del sistema auditivo, de igual forma definir grado, tipo de pérdida auditiva y tratamiento a seguir."
+    },
+    "logoaudiometria": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Logoaudiometría",
+      "icono": "",
+      "imagen": "img/servicios/Logoaudiometria.jpg",
+      "descripcion": "Prueba subjetiva que permite determinar el umbral de discriminación de la palabra, también conocida como audiometría verbal."
+    },
+    "impedanciometria": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Impedanciometría",
+      "icono": "",
+      "imagen": "img/servicios/Impedanciometría.jpg",
+      "descripcion": "Prueba objetiva que permite determinar la integridad de la membrana timpánica y el correcto funcionamiento del oído medio."
+    },
+    "acufenometria": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Acufenometría",
+      "icono": "",
+      "imagen": "img/servicios/Acufenometria.jpg",
+      "descripcion": "Es una prueba que permite diagnosticar el acufeno y determinar las características psicoacústicas en tono, intensidad, nivel mínimo de enmascaramiento, e inhibición residual."
+    },
+    "limpieza": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Limpieza auditiva",
+      "icono": "",
+      "imagen": "img/servicios/limpieza_auditiva.jpg",
+      "descripcion": "Extracción de cerumen y cuerpo extraño por medio de la técnica de curetaje auditivo."
+    },
+    "tamizaje": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Tamizaje Auditivo Neonatal",
+      "icono": "",
+      "imagen": "img/servicios/tamizaje.jpg",
+      "descripcion": "Es un examen específico para detectar tempranamente alteraciones en la audición del bebé, por medio de la impedanciometría, Otoemisiones acústicas y potencial evocado bera automatizado, el tiempo recomendado para la valoración es a partir de la primera semana de vida en adelante."
+    },
+    "potenciales": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Potenciales Evocados Auditivos",
+      "icono": "",
+      "imagen": "img/servicios/Potenciales Evocados Auditivos.jpg",
+      "descripcion": "Son pruebas objetivas que evalúan la actividad electrofisiológica cerebral frente a estímulos externos, lo cual determinan el diagnostico auditivo para la toma de decisiones frente a la intervención audiológica."
+    },
+    "otoemisiones": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Otoemisiones acústicas",
+      "icono": "",
+      "imagen": "img/servicios/Otoemisiones acústicas.jpg",
+      "descripcion": "Son sonidos producidos por la actividad coclear en todo el sistema auditivo normal. Es una prueba objetiva, no invasiva, que nos permite detectar tempranamente la pérdida auditiva en neonatos y en adultos aporta información relevante para el diagnóstico audiológico, especialmente en personas que trabajan con exposición a sustancias químicas."
+    },
+    "vemsp": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Potenciales Evocados Miogénicos Vestibulares (Vemsp)",
+      "icono": "",
+      "imagen": "img/servicios/VEMP.jpg",
+      "descripcion": "Esta prueba permite obtener respuestas de los órganos otolíticos del laberinto (utrículo y sáculo) y de sus conexiones con el nervio vestibular.   Estas lesiones otolíticas provocan vértigo y desequilibrio. Los VEMP se registran con unos electrodos superficiales que no son molestos para el paciente."
+    },
+    "electrococleografia": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Electrococleografía",
+      "icono": "",
+      "imagen": "img/servicios/Electrocolceografia.jpg",
+      "descripcion": "(ECoG) es el registro de un episodio electrofisiológico, que tiene lugar en la cóclea tras un estímulo acústico. Es un método útil para el diagnóstico y evaluación de la enfermedad de Ménière, aporta información relevante del progreso y evolución de dicha enfermedad."
+    },
+    "posturografia": {
+      "titulo": "Evaluación y Diagnostico",
+      "subtitulo": "Posturografía",
+      "icono": "",
+      "imagen": "img/servicios/posturografia.jpg",
+      "descripcion": "Es una prueba objetiva para la evaluación y tratamiento de personas con dificultades de equilibrio, vestibulares y de movilidad mediante la integración de la función de los sistemas motor y sensorial (visual, vestibular y somatosensorial)."
+    },
+    "protectores": {
+      "titulo": "Productos",
+      "subtitulo": "Protectores Auditivos Anatómicos",
+      "icono": "",
+      "imagen": "img/productos/protectores.jpg",
+      "descripcion": "Los protectores auditivos son equipos de protección individual que, debido a sus propiedades para la atenuación de sonido, reducen los efectos del ruido en la audición, para evitar así un daño en el oído. Nosotros fabricamos protectores auditivos a la medida de cada cliente para su mayor comodidad."
+    },
+    "bandas": {
+      "titulo": "Productos",
+      "subtitulo": "Bandas de Natación",
+      "icono": "",
+      "imagen": "img/productos/bandas natacion.jpg",
+      "descripcion": "Los oídos sufren mucho al practicar natación o buceo, principalmente para niños que disfrutan y juegan, el agua les puede generar la tan conocida Otitis. Gracias a las bandas protectoras, las cuales sellan perfectamente el canal auditivo y protegen óptimamente al nadar, al bañarse y al bucear ahora niños y adultos pueden practicar estos deportes con tranquilidad."
+    },
+    "baterias": {
+      "titulo": "Productos",
+      "subtitulo": "Baterías para Audífonos",
+      "icono": "",
+      "imagen": "img/productos/pila audifono.jpg",
+      "descripcion": "Los audífono han cambiado la vida de miles de personas, pero cuando se acaba su batería (pila), el mundo vuelve a cambiarles y puede llegar a ser peligroso para su integridad al no poder oír ciertos ruidos de alarma en nuestra vida cotidiana, por eso tenemos las mejores baterías para audífonos a tu disposición y al mejor precio."
+    },
+    "kit": {
+      "titulo": "Productos",
+      "subtitulo": "Kit de Limpieza para Audífonos",
+      "icono": "",
+      "imagen": "img/productos/kit de limpieza.png",
+      "descripcion": "Los audífono han cambiado la vida de miles de personas, pero y ¿cómo limpiarlos? sencillo nostros tenemos los mejores kits de limpieza para audífonos que encontrarás en el mercado para alargar la vida útil de tus audífonos y al mejor precio."
+    },
+    "gotas": {
+      "titulo": "Productos",
+      "subtitulo": "Gotas óticas ProEar MIRACELL",
+      "icono": "",
+      "imagen": "img/productos/gotas.jpg",
+      "descripcion": "Las gotas para los oídos son una forma de medicamento que se usa para tratar o prevenir las infecciones del oído, especialmente las infecciones del oído externo y el canal auditivo."
+    },
+    "alternativas": {
+      "titulo": "Re/Habilitación",
+      "subtitulo": "Alternativas en ayudas auditivas",
+      "icono": "",
+      "imagen": "img/productos/ayudas_auditivas.jpg",
+      "descripcion": "Asesoramos y brindamos acompañamiento en el proceso de adaptación de audífonos con el objetivo de brindar confort y bienestar comunicativo en nuestros pacientes neonatos, niños, adolescentes, adultos y adultos mayor, por medio de diversas marcas especializadas en la salud auditiva como: UNITRON, HANSATON, SONIC."
+    },
+    "asesoria": {
+      "titulo": "Re/Habilitación",
+      "subtitulo": "Asesoría, suministro y adaptación de audífonos",
+      "icono": "",
+      "imagen": "img/productos/asesoria_suministro_audifonos.jpg",
+      "descripcion": "Asesoramos y brindamos acompañamiento en el proceso de adaptación de audífonos con el objetivo de brindar confort y bienestar comunicativo en nuestros pacientes neonatos, niños, adolescentes, adultos y adultos mayor, por medio de diversas marcas especializadas en la salud auditiva como: UNITRON, HANSATON, SONIC."
+    },
+    "terapia": {
+      "titulo": "Re/Habilitación",
+      "subtitulo": "Apoyo terapéutico",
+      "icono": "",
+      "imagen": "img/servicios/terapia de lenguaje.jpg",
+      "descripcion": "La fonoaudiología, logopedia o terapia del lenguaje es una disciplina profesional que esta relacionada con las ciencias de la salud, la psicología y la lingüística aplicada. Se ocupa de la prevención, la evaluación y la intervención de los trastornos de la comunicación humana, manifestados a través de patologías y alteraciones en la voz, el habla, el lenguaje (oral, escrito y gestual), la audición y las funciones orofaciales, tanto en población infantil como adulta."
+    }
+    
+  }
